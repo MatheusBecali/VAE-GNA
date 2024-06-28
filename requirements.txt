@@ -1,5 +1,4 @@
 absl-py==1.2.0
-aiohttp==3.8.1
 aiosignal==1.2.0
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 alembic==1.9.2
@@ -40,7 +39,6 @@ Bottleneck @ file:///tmp/build/80754af9/bottleneck_1607575130224/work
 brotlipy==0.7.0
 cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
 cachetools==4.2.2
-certifi==2021.10.8
 cffi @ file:///tmp/build/80754af9/cffi_1625814692085/work
 chardet @ file:///tmp/build/80754af9/chardet_1607706775000/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -91,14 +89,12 @@ gdown==4.5.1
 geoopt @ git+https://github.com/geoopt/geoopt.git@010f5bdf1d6cf217fb47a767e2d93e39369e4cb2
 gevent @ file:///tmp/build/80754af9/gevent_1628273270105/work
 gitdb==4.0.10
-GitPython==3.1.29
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2==2.0.8
 google==2.0.3
 google-auth==2.11.0
 google-auth-oauthlib==0.4.6
 greenlet @ file:///tmp/build/80754af9/greenlet_1628888132713/work
-grpcio==1.47.0
 h5py @ file:///tmp/build/80754af9/h5py_1636040554610/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
@@ -160,7 +156,6 @@ mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
 mkl-service==2.4.0
 mock @ file:///tmp/build/80754af9/mock_1607622725907/work
 more-itertools @ file:///tmp/build/80754af9/more-itertools_1635423142362/work
-mpmath==1.2.1
 msgpack @ file:///tmp/build/80754af9/msgpack-python_1612287166301/work
 multidict==6.0.2
 multipledispatch @ file:///tmp/build/80754af9/multipledispatch_1607574243360/work
@@ -174,7 +169,6 @@ nbconvert @ file:///tmp/build/80754af9/nbconvert_1624472883256/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx @ file:///tmp/build/80754af9/networkx_1633639043937/work
-nltk==3.6.5
 nose @ file:///tmp/build/80754af9/nose_1606773131901/work
 notebook @ file:///tmp/build/80754af9/notebook_1635411643303/work
 numba @ file:///tmp/build/80754af9/numba_1635174338764/work
@@ -213,7 +207,6 @@ poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prettytable==3.6.0
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
-protobuf==3.19.4
 psutil @ file:///tmp/build/80754af9/psutil_1612297992929/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///tmp/build/80754af9/py_1607971587848/work
