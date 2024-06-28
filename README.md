@@ -47,7 +47,7 @@ jupyter notebook
 ```
 or open the jupyter notebook extension in Visual Studio Code (Works on Linux and Windows)
 
-4. Open and run the desired notebook, such as `notebooks/model_training.ipynb`.
+4. Open and run the desired notebook, such as `notebooks/vaegna_jpyt.ipynb`.
 
 ## Features
 
