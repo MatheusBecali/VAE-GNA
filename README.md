@@ -1,7 +1,7 @@
 # VAE-GNA: Variational Autoencoder using Gaussian Neurons and Attention Layer
 
 _**Springer Paper:**_ \
-**Title:** VAE-GNA: a variational autoencoder with Gaussian neurons in the latent space and attention mechanisms \
+**Title:** VAE-GNA: a variational autoencoder with Gaussian neurons in the latent space and attention mechanisms (Language: English) \
 Link to the paper: [https://link.springer.com/article/10.1007/s10115-024-02169-5](https://link.springer.com/article/10.1007/s10115-024-02169-5)
 
 _**MSc. Dissertation:**_ \
