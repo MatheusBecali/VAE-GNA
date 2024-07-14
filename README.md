@@ -1,11 +1,16 @@
 # VAE-GNA: Variational Autoencoder using Gaussian Neurons and Attention Layer
 
-# ===== THIS REPO IS UNDER CONSTRUCTION =====
+_**Springer Paper:**_ \
+**Title:** VAE-GNA: a variational autoencoder with Gaussian neurons in the latent space and attention mechanisms \
+Link to the paper: [https://link.springer.com/article/10.1007/s10115-024-02169-5](https://link.springer.com/article/10.1007/s10115-024-02169-5)
 
+_**MSc. Dissertation:**_ \
+**Title:** Autoencoder Variacional com Neurônios Gaussianos e Mecanismos de Atenção para Detecção de Câncer Usando Dados Espectrais (Language: Portuguese - Brazil) \
+Link to the Dissertation: [https://informatica.ufes.br/en/pos-graduacao/PPGI/thesis-details?id=14992](https://informatica.ufes.br/pt-br/pos-graduacao/PPGI/detalhes-da-tese?id=21269)
 
-## Supplementary Code for My Master's Dissertation
+## Supplementary Code
 
-This repository contains the code developed for my master's dissertation. Below are the instructions on how to use it. If you find any bugs or have any observations, please let me know. Don't hesitate to get in touch with me.
+This repository contains the code developed for my master's dissertation and my VAE-GNA paper. Below are the instructions on how to use it. If you find any bugs or have any observations, please let me know. Don't hesitate to get in touch with me.
 
 ## Dependencies
 
@@ -19,9 +24,24 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-Briefly describe the structure of your project here. For example:
+Project structure for the VAE-GNA repository:
 
-├── In Construction..
+```
+VAE-GNA/
+├── Confusion_Matrix/
+├── Loss_Plot/
+│ └── pkls/
+├── data/
+├── imgs/
+├── model/
+│ └── Kfold_results/
+├── results/
+├── results_per_fold/
+├── LICENCE
+├── README.md
+├── requirements.txt
+└── vaegna_jpyt.ipynb
+```
 
 ## Usage
 
